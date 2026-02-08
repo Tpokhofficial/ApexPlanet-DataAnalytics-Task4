@@ -1,0 +1,18 @@
+Task 4 – Hypothesis Testing Report
+
+This task focuses on statistical hypothesis testing to examine differences
+in aggression scores between male and female respondents.
+
+Null Hypothesis (H0):
+There is no significant difference in aggression scores between male and female respondents.
+
+Alternative Hypothesis (H1):
+There is a significant difference in aggression scores between male and female respondents.
+
+An independent samples t-test assuming unequal variances was conducted, as the sample
+sizes of male and female respondents were different.
+
+The results show that the mean aggression score for males (M = 2.84) and females (M = 2.92)
+does not differ significantly (p = 0.388 > 0.05).
+
+Therefore, the null hypothesis is not rejected.
